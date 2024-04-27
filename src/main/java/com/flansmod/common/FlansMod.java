@@ -168,7 +168,7 @@ public class FlansMod
 	public static boolean forceUpdateJSONs = false;
 	public static boolean enchantmentModuleEnabled = true;
 	
-	public static float armourSpawnRate = 0.25F;
+	public static float armourSpawnRate = 0;
 	
 	public static int dungeonLootChance = 500;
 	
